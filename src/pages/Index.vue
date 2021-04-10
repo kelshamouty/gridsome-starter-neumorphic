@@ -9,7 +9,7 @@
           
           <hr class="my-4">
 
-          <h3>Development Notes</h3>
+          <h3>Development</h3>
           
           <h4 class="mt-4">Bootstrap v5</h4>
           <p>
